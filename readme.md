@@ -1,5 +1,13 @@
 # PORTE FOLIO
 
+## Description 
+
+Mon porte folio qui sera utilisé pour présenter mes projets.  
+
+## Project Time
+
+### Begin : 07/06/2021
+
 ## notes 
 
 - header coloré avec opacité.
