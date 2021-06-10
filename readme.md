@@ -18,5 +18,7 @@ Mon porte folio qui sera utilisé pour présenter mes projets.
 - animation hover monochrome to color.
 - quand cliquer sur le projet bande droite qui slide avec info. 
 - footer sticky.
+- "qui-suis-je" sur la premier image clickable et lancement page présentation.
+- section "new" qui est présente les 3 dernier projets réalisés.
 
 * by herve richard
