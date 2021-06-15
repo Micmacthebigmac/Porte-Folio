@@ -20,5 +20,6 @@ Mon porte folio qui sera utilisé pour présenter mes projets.
 - footer sticky.
 - "qui-suis-je" sur la premier image clickable et lancement page présentation.
 - section "new" qui est présente les 3 dernier projets réalisés.
+- CV version grosse au clique et hover griser ou transparant.
 
 * by herve richard
