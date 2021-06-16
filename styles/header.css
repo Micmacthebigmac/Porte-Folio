@@ -1,0 +1,26 @@
+body {
+  margin: auto;
+  padding: auto;
+  font-style: Roboto;
+}
+
+.bandeauHeader {
+  width: 100%;
+  height: 12vh;
+  background: #222222;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: auto;
+  border-bottom: #0060F1 solid 1vh;
+}
+.bandeauHeader p {
+  margin-right: 2vh;
+  color: white;
+  font-size: 5vh;
+}
+.bandeauHeader img {
+  width: 7vh;
+  margin-left: 3vh;
+}/*# sourceMappingURL=header.css.map */
