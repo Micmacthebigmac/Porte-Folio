@@ -16,6 +16,7 @@ body {
     padding: auto;
     border-bottom: #0060F1 solid 1vh;
 
+
         p {
             margin-right: 2vh;
             color: white;
@@ -27,3 +28,50 @@ body {
             margin-left: 3vh;
         }
 }
+
+// Partie Form email -------------------------------------------------------------------
+
+.formEmail {
+    position: absolute;
+    display: none;
+    border-bottom: #0060F1 solid 1vh;
+    background-color: #222222;
+    height: 88.5vh;
+    width: 100%;
+    justify-content: space-around;
+    //align-items: center;
+    transition: all 0.3 ease-out;
+}
+
+.formEmail.is-visible {
+    display: flex;
+    
+}
+
+#name {
+   // border: yellow double 10px;
+}
+
+#mail {
+   // border: yellow double 10px;
+}
+
+#msg {
+    height: 45vh;
+    width: 50vh;
+    background-color: rgb(238, 238, 238);
+   // border: yellow double 10px;
+}
+
+#nameb {
+    color: white;
+}
+
+#mailb {
+    color: white;
+}
+
+#msgb {
+    color: white;
+}
+

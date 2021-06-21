@@ -1,6 +1,8 @@
+<div class="footerBanniere">
 
+    <a href="mention-legales">Mention Legales</a>
 
-<script src="main.js"></script>
-<script src="presentation.js"></script>
+</div>
+<script src="../scripts/header.js"></script>
 </body>
 </html>

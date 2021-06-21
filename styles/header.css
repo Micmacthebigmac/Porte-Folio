@@ -23,4 +23,37 @@ body {
 .bandeauHeader img {
   width: 7vh;
   margin-left: 3vh;
+}
+
+.formEmail {
+  position: absolute;
+  display: none;
+  border-bottom: #0060F1 solid 1vh;
+  background-color: #222222;
+  height: 88.5vh;
+  width: 100%;
+  justify-content: space-around;
+  transition: all 0.3 ease-out;
+}
+
+.formEmail.is-visible {
+  display: flex;
+}
+
+#msg {
+  height: 45vh;
+  width: 50vh;
+  background-color: #eeeeee;
+}
+
+#nameb {
+  color: white;
+}
+
+#mailb {
+  color: white;
+}
+
+#msgb {
+  color: white;
 }/*# sourceMappingURL=header.css.map */
