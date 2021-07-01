@@ -53,4 +53,4 @@
     </form>
 
 </div>
-<img src="../assets/images/who-is.svg" class="whois" alt="who is">
+<a href="admin.php"><img src="../assets/images/who-is.svg" class="whois" alt="who is"></a>
