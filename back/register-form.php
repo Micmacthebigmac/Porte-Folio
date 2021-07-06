@@ -15,7 +15,7 @@
     
     <a href="../pages/admin.php">RETOUR</a>
     
-    <p>ADMIN</p>
+    <a href="../pages/index.php">ADMIN</a>
     
 
 </div>
@@ -23,15 +23,15 @@
     <form action="register-form-handler.php" method="post" id="form_admin">
         <div>
             <label for="input-username">nom d'utilisateur</label>
-            <input type="name" name="username" id="input-username" required>
+            <input type="name" name="user_username" id="input-username" required>
         </div>
         <div>
             <label for="input-username">email</label>
-            <input type="email" name="email" id="input-email" required>
+            <input type="email" name="user_email" id="input-email" required>
         </div>
         <div>
             <label for="input-username">password</label>
-            <input type="password" name="password" id="input-password" required>
+            <input type="password" name="user_password" id="input-password" required>
         </div>
         <div>
             <label for="input-username">confirmation</label>

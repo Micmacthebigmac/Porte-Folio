@@ -16,7 +16,7 @@
     
     <a href="../back/register-form.php">Inscription</a>
     <a href="../back/login-form.php">Connexion</a>
-    <p>ADMIN</p>
+    <a href="../pages/index.php">ADMIN</a>
     
 
 </div>

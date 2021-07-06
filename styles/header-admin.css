@@ -6,14 +6,14 @@ body {
 
 .bandeauHeader {
   width: 100%;
-  height: 16vh;
+  height: 12vh;
   background: #222222;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-around;
   padding: auto;
-  border-bottom: #0060F1 solid 1vh;
+  border-bottom: #fbff00 solid 1vh;
 }
 .bandeauHeader p {
   color: white;

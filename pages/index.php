@@ -6,6 +6,12 @@
 
     </div>
 
+    <div class="buttonBackground">
+    
+    <img src="../assets/images/new.svg" alt="NEW">
+    
+    </div>
+
 
 
 

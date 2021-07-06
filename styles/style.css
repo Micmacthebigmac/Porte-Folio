@@ -1,7 +1,7 @@
 .bandeauDegrade {
   width: 100%;
   height: 87vh;
-  background: linear-gradient(180deg, rgba(0, 132, 254, 0.54) 0%, rgba(0, 5, 115, 0.54) 100%);
+  background: linear-gradient(180deg, rgba(0, 158, 124, 0.54) 0%, rgba(4, 71, 102, 0.54) 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -27,4 +27,20 @@ a {
   color: white;
   font-size: 5vh;
   text-decoration: none;
+}
+
+.buttonBackground {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  position: relative;
+  bottom: 6vh;
+  height: 10vh;
+  width: 28vh;
+  background-color: black;
+  border-bottom: #0060F1 solid 6px;
+  border-right: #0060F1 solid 6px;
+}
+.buttonBackground img {
+  height: 8vh;
 }/*# sourceMappingURL=style.css.map */
