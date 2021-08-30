@@ -30,7 +30,7 @@ a {
 }
 
 .buttonBackground {
-  margin-bottom: 30vh;
+  margin-bottom: 5vh;
   justify-content: center;
   display: flex;
   align-items: center;
@@ -47,4 +47,19 @@ a {
 }
 .buttonBackground img {
   height: 8vh;
+}
+
+.projectPlace {
+  display: flex;
+  justify-content: space-around;
+  margin: 1.5%;
+  border: yellow solid 3px;
+  height: 50vh;
+  width: 97%;
+}
+.projectPlace div {
+  background-color: #222222;
+  border: #222222 solid 1px;
+  height: 100%;
+  width: 50vh;
 }/*# sourceMappingURL=style.css.map */

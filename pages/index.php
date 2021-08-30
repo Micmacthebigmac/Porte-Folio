@@ -6,17 +6,30 @@
 
     </div>
 
+    <!-- Boutton plus img New -->
     <div class="buttonBackground">
     
-    <img src="../assets/images/new.svg" alt="NEW">
+        <img src="../assets/images/new.svg" alt="NEW">
     
+    </div>
+    <!-- --------------------------------------- -->
+    <!-- Boutton plus Paragraphe Project -->    
+    <div class="buttonBackground">
+    
+        <p>Projects</p>
+    
+    </div>
+    <!-- ----------------------------------------- -->
+
+    <div class="projectPlace">
+
+        <div></div>
+        <div></div>
+        <div></div>
+
     </div>
 
-    <div class="buttonBackground">
     
-    <p>Projects</p>
-    
-    </div>
 
 
 
