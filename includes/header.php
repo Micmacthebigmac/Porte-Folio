@@ -53,4 +53,4 @@
     </form>
 
 </div>
-<div><img src="../assets/images/who-is.svg" class="whois" alt="who is"></div>
+<div><img src="../assets/images/qui-suis-je.svg" class="whois" alt="who is"></div>
