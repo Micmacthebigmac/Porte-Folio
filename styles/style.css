@@ -30,6 +30,7 @@ a {
 }
 
 .buttonBackground {
+  margin-bottom: 30vh;
   justify-content: center;
   display: flex;
   align-items: center;
@@ -38,7 +39,11 @@ a {
   height: 10vh;
   width: 28vh;
   background-color: black;
-  box-shadow: 10px 5px 5px #0060F1;
+  box-shadow: 8px 5px #0060F1;
+}
+.buttonBackground p {
+  color: white;
+  font-size: 1.8em;
 }
 .buttonBackground img {
   height: 8vh;
