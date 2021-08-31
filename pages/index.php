@@ -12,6 +12,14 @@
         <img src="../assets/images/new.svg" alt="NEW">
     
     </div>
+
+        <div class="projectPlace">
+
+        <div></div>
+        <div></div>
+        <div></div>
+
+    </div>
     <!-- --------------------------------------- -->
     <!-- Boutton plus Paragraphe Project -->    
     <div class="buttonBackground">
